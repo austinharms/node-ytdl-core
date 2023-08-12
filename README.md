@@ -9,6 +9,9 @@ Yet another YouTube downloading module. Written with only Javascript and a node-
 # Support
 You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 
+# Fork Changes
+ - Fix `Error 410` when downloading age restricted videos 
+
 # Usage
 
 ```js
